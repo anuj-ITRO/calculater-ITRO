@@ -24,7 +24,7 @@ A simple yet powerful calculator built with *HTML, CSS, and JavaScript, designed
 
 ## Screenshots
 
-![Calculator UI](screenshot.png)
+![Calculator UI](https://dribbble.com/shots/14052902-Simple-Calculator-UI)
 
 ---
 
